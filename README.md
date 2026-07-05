@@ -39,11 +39,11 @@ py bot.py                  # macOS/Linux: python3 bot.py
 
 | Key | Where to get it |
 |---|---|
-| `TELEGRAM_BOT_TOKEN` | 8923672599:AAEZiepUZOAu8yxeK5dVodNABH2pnIkIcGw |
-| `ADMIN_TELEGRAM_IDS` |6897116774|
-| `BOT_BRAND` | A H R OTP BOT |
-| `API_BASE_URL` | http://203.161.58.20:3001/api/functions/agent-api` |
-| `AGENT_API_KEY` | sk_251a0294c70bb86c56ecec77d4dd5cd93753596d2c061b11b5bfd357f460b089. |
+| `TELEGRAM_BOT_TOKEN` 8923672599:AAEv2JOQWDpMRqlB85iR6-Fcy2geGpVZft4
+| `ADMIN_TELEGRAM_IDS`6897116774
+| `BOT_BRAND`A H R OTP BOT
+| `API_BASE_URL` | http://203.161.58.20:3001/api/functions/agent-api`
+| `AGENT_API_KEY` | sk_251a0294c70bb86c56ecec77d4dd5cd93753596d2c061b11b5bfd357f460b089.
 | `POLL_INTERVAL_SECONDS` | How often to poll for new SMS (default `5`) |
 | `NUMBER_HOLD_SECONDS` | How long a user keeps a number (default `600` = 10 min) |
 
